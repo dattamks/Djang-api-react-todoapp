@@ -138,5 +138,6 @@ CORS_ALLOWED_ORIGINS = [
     
     "http://localhost:3000",
     "https://django-api-react-todo-app.herokuapp.com/",
+    "*"
     
 ]
