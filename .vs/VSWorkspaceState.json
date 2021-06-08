@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ddd",
-    "\\ddd\\build",
-    "\\tododjango"
+    "\\fd",
+    "\\fd\\build",
+    "\\fd\\build\\static",
+    "\\todoapp"
   ],
+  "SelectedNode": "\\fd\\build\\index.html",
   "PreviewInSolutionExplorer": false
 }
